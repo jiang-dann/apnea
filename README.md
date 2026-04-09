@@ -38,6 +38,6 @@
 * 已完成核心數據分析與特徵萃取流程。
 * 成功訓練出具備穩定辨識能力之機器學習模型，目前正進行參數最佳化與論文撰寫。
 
-![測試集混淆矩陣](./image/confusion_martix.png)
+![測試集混淆矩陣](./image/confusion_matrix.png)
 ---
 *Developed by Jia-Yi Chou (周嘉頤) | 淡江大學電機工程學系碩士班*
